@@ -1,3 +1,4 @@
+import tkinter as canva
 import tkinter as tk
 import tkinter.scrolledtext as scrolledtext
 import webbrowser
